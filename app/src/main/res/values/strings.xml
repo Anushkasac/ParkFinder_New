@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ParkFinder</string>
+
+    <string name="content_description">image</string>
+    <string name="title_login">LOGIN</string>
+    <string name="et_hint_smail_id">Email ID</string>
+    <string name="et_hint_email_password">password</string>
+    <string name="lbl_forgot_password">Forgotpassword</string>
+    <string name="btn_lbl_login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="hello_bold_world">Hello Bold World</string>
+    <string name="bold_text_view" />
+
+</resources>

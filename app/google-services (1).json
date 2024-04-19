@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914977490936",
+    "project_id": "parkfinderlatrobe",
+    "storage_bucket": "parkfinderlatrobe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914977490936:android:af40ed0d9be1b9537c780d",
+        "android_client_info": {
+          "package_name": "com.Latrobe.MobileProject_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsBjric6HwaFKzY3MKcXO-FVMKj9ZGD9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914977490936:android:b4b0704f6714dd1e7c780d",
+        "android_client_info": {
+          "package_name": "com.example.parkfinderapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsBjric6HwaFKzY3MKcXO-FVMKj9ZGD9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
